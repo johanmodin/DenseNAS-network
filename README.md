@@ -1,2 +1,2 @@
-# cifar-challenge
-A repository for exploring and benchmarking different neural network architectures. 
+# A DenseNet implementation with NAS inspiration
+A network made up of DenseNet and NASnet components. Tuned to CIFAR-10, in which it achieves slightly more than 95% accuracy.
